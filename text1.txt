@@ -1,10 +1,1 @@
- Volume in drive C is Windows-SSD
- Volume Serial Number is E409-78C3
-
- Directory of C:\Users\MAYUR\OneDrive\Desktop\MyProject
-
-17-02-2022  09:30    <DIR>          .
-17-02-2022  09:30    <DIR>          ..
-17-02-2022  09:30                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  137,211,277,312 bytes free
+hello world
